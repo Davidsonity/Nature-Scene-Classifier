@@ -6,7 +6,7 @@
 ### INTRODUCTION
 #### Objectives
 The objective of this project is to build powerful Deep Learning Neural network that can classify these images with more accuracy.
-In this project we made use of transfer learning. Three models were used 
+In this project we made use of transfer learning. The three models were used 
 - Xception
 - InceptionV3
 - VGG16
