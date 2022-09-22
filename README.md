@@ -26,7 +26,7 @@ The Train, Test and Prediction data is separated in each zip files. There are ar
 
 Data Source: https://www.kaggle.com/datasets/puneet6060/intel-image-classification
 
-> For this project the test dataset was used as validation data. New set of data with different shapes were download and the model made very good results on the data.# Intel-Images
+> For this project the test dataset was used as validation data. New set of data with different shapes were download and the model made very good results on the data.
 
 
 ## Some Model Predictions
