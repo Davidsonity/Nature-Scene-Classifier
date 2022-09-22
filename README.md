@@ -1,3 +1,8 @@
+## Intel-Image Classification using Transfer learning with TensorFlow
+
+![image](https://user-images.githubusercontent.com/96771321/191637326-7091c80d-e229-4d32-81df-f717ed602d19.png)
+
+
 ### INTRODUCTION
 #### Objectives
 The objective of this project is to build powerful Deep Learning Neural network that can classify these images with more accuracy.
@@ -22,3 +27,9 @@ The Train, Test and Prediction data is separated in each zip files. There are ar
 Data Source: https://www.kaggle.com/datasets/puneet6060/intel-image-classification
 
 > For this project the test dataset was used as validation data. New set of data with different shapes were download and the model made very good results on the data.# Intel-Images
+
+
+## Some Model Predictions
+
+![image](https://user-images.githubusercontent.com/96771321/191637093-e8c0545d-0f40-41c9-9a1a-7c55d4f2141b.png)
+
