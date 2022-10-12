@@ -1,4 +1,4 @@
-## Intel-Image Classification using Transfer learning with TensorFlow
+## Intel-Image Classification using TensorFlow
 
 ![image](https://user-images.githubusercontent.com/96771321/191637326-7091c80d-e229-4d32-81df-f717ed602d19.png)
 
