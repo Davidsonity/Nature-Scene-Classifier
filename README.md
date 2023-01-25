@@ -1,6 +1,6 @@
-## Intel-Image Classification using TensorFlow
+## Natural Scenes Classification using TensorFlow
 
-![image](https://user-images.githubusercontent.com/96771321/191637326-7091c80d-e229-4d32-81df-f717ed602d19.png)
+![nature](https://user-images.githubusercontent.com/96771321/214587310-060d7f75-2d29-4320-a3ff-c78638e6b91d.jpg)
 
 
 ### INTRODUCTION
