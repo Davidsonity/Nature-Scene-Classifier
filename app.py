@@ -25,7 +25,7 @@ with st.sidebar:
 st.header("Natural Scenes Prediction")
 
 st.image(
-    'https://www.freewebheaders.com/wp-content/gallery/beautiful-landscape/snow-mountains-blue-sky-and-lake-nature-landscape-header.jpg'
+    'https://user-images.githubusercontent.com/96771321/214588217-b037c3e3-bbb3-4e52-9da7-3459cbdc27b4.jpg'
 )
 
 # Uploading the dog image
