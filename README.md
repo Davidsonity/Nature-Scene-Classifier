@@ -1,6 +1,6 @@
 ## Natural Scenes Classification using TensorFlow
 
-![nature](https://user-images.githubusercontent.com/96771321/214587310-060d7f75-2d29-4320-a3ff-c78638e6b91d.jpg)
+![nature](https://user-images.githubusercontent.com/96771321/214588217-b037c3e3-bbb3-4e52-9da7-3459cbdc27b4.jpg)
 
 
 ### INTRODUCTION
