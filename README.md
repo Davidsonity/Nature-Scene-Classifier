@@ -6,7 +6,7 @@
 
 ### INTRODUCTION
 #### Objectives
-The objective of this project is to build powerful Deep Learning Neural network that can classify these images with more accuracy.
+The objective of this project is to build powerful Deep Learning Neural network that can classify images of buildings, forests, glaciers, mountains, seas and streets with very good accuracy.
 In this project we made use of transfer learning. The three models were used 
 - Xception
 - InceptionV3
@@ -17,11 +17,11 @@ This is an image data of Natural Scenes around the world.
 
 This Data contains around 25k images of size 150x150 distributed under 6 categories. 
 - buildings, 
-- forest
-- glacier
-- mountain
-- sea
-- street
+- forests
+- glaciers
+- mountains
+- seas
+- streets
 
 The Train, Test and Prediction data is separated in each zip files. There are around 14k images in Train, 3k in test and 7k in Prediction. This data was initially published on https://datahack.analyticsvidhya.com by Intel to host a Image classification Challenge.
 
