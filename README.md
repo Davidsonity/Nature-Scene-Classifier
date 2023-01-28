@@ -3,6 +3,8 @@
 ![nature](https://user-images.githubusercontent.com/96771321/214588217-b037c3e3-bbb3-4e52-9da7-3459cbdc27b4.jpg)
 
 > Deployment Site @ https://davidsonity-nature-scene-classifier-app-0f6zht.streamlit.app/
+>
+> View Notebook @ https://github.com/Davidsonity/Nature-Scene-Classifier/blob/main/notebook.ipynb
 
 ### INTRODUCTION
 #### Objectives
