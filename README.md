@@ -37,7 +37,3 @@ To run this project, follow these steps:
 
 ### Conclusion
 The project demonstrates the effectiveness of transfer learning techniques in building powerful image classification models. By leveraging pre-trained models such as Xception, InceptionV3, and VGG16, accurate predictions can be achieved even with limited training data. This project can serve as a starting point for more advanced image classification tasks and can be further improved by fine-tuning the pre-trained models or exploring other architectures.
-
-> Deployment Site: [Nature Scene Classifier App](https://davidsonity-nature-scene-classifier-app-0f6zht.streamlit.app/)
->
-> View Notebook: [GitHub Notebook](https://github.com/Davidsonity/Nature-Scene-Classifier/blob/main/n
