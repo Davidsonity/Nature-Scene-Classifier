@@ -4,11 +4,35 @@
 ### Introduction
 The objective of this project is to build a powerful deep learning neural network that can classify images of buildings, forests, glaciers, mountains, seas, and streets with high accuracy. Transfer learning techniques are used, and three pre-trained models are evaluated: Xception, InceptionV3, and VGG16.
 
+### Repository Structure
+The repository structure includes the following files and directories:
+```
+├── LICENSE
+├── Procfile
+├── README.md
+├── Report.pdf
+├── app.py
+├── intel_image.h5
+├── notebook.ipynb
+├── requirements.txt
+└── setup.sh
+```
+- `LICENSE`: File containing the license information for your project.
+- `Procfile`: File specifying the commands to run your application in a hosting environment, such as Heroku.
+- `README.md`: Markdown file with project documentation, instructions, or other relevant information.
+- `Report.pdf`: PDF document providing a detailed report of the experiments for the project.
+- `app.py`: Python file containing the main code for deployment.
+- `intel_image.h5`: Pre-trained model file or model weights.
+- `notebook.ipynb`: Jupyter notebook file for exploratory analysis and experiments.
+- `requirements.txt`: File listing the required Python libraries and their versions.
+- `setup.sh`: Shell script for setting up the project environment or executing necessary setup commands.
+
+
 ### Dataset
 The dataset used in this project is called "Natural Scenes Image Classification" and contains approximately 25,000 images of size 150x150 distributed across six categories: buildings, forests, glaciers, mountains, seas, and streets. The dataset is originally published on [Kaggle](https://www.kaggle.com/datasets/puneet6060/intel-image-classification) and was provided by Intel for an image classification challenge.
 
-### Project Structure
-The project is structured into the following sections:
+### Notebook Structure
+The notebook is structured into the following sections:
 
 1. Data Preprocessing: This section involves importing the necessary libraries, setting up the directory paths, and visualizing random images from the dataset.
 
@@ -25,15 +49,6 @@ The project achieves good accuracy in classifying the images, with the Xception 
 
 ### Deployment
 The project is deployed and accessible through the following link: [Nature Scene Classifier App](https://davidsonity-nature-scene-classifier-app-0f6zht.streamlit.app/). This web application allows users to upload their own images and obtain predictions for the corresponding nature scenes.
-
-### Usage
-To run this project, follow these steps:
-
-1. Set up the environment with the necessary libraries and dependencies.
-2. Download the dataset from the provided Kaggle link or any other suitable source.
-3. Extract the dataset and ensure the directory paths in the code are correctly set to the dataset's location.
-4. Run the code sections sequentially to preprocess the data, build and evaluate the models, compare the results, save the best model, and test the model on new images.
-5. Observe the visualizations and performance metrics to analyze the model's accuracy and effectiveness.
 
 ### Conclusion
 The project demonstrates the effectiveness of transfer learning techniques in building powerful image classification models. By leveraging pre-trained models such as Xception, InceptionV3, and VGG16, accurate predictions can be achieved even with limited training data. This project can serve as a starting point for more advanced image classification tasks and can be further improved by fine-tuning the pre-trained models or exploring other architectures.
