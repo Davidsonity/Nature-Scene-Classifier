@@ -49,7 +49,7 @@ The notebook is structured into the following sections:
 The project achieves good accuracy in classifying the images, with the Xception model showing slightly higher validation scores compared to InceptionV3 and VGG16. The accuracy over the test set is measured to be 95.65%.
 
 ### Deployment
-The project is deployed and accessible through the following link: [Nature Scene Classifier App](https://davidsonity-nature-scene-classifier-app-0f6zht.streamlit.app/). This web application allows users to upload their own images and obtain predictions for the corresponding nature scenes.
+The project is deployed and accessible through the following link: [NatureVison App](https://nature-vision.streamlit.app/). This web application allows users to upload their own images and obtain predictions for the corresponding nature scenes.
 
 ### Conclusion
 The project demonstrates the effectiveness of transfer learning techniques in building powerful image classification models. By leveraging pre-trained models such as Xception, InceptionV3, and VGG16, accurate predictions can be achieved even with limited training data. This project can serve as a starting point for more advanced image classification tasks and can be further improved by fine-tuning the pre-trained models or exploring other architectures.
