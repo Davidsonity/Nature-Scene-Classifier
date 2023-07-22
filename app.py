@@ -22,7 +22,7 @@ with st.sidebar:
     st.markdown('- street')
 
 # Setting the title of app
-st.header("Natural Scenes Prediction")
+st.header("Nature Vision")
 
 st.image(
     'https://user-images.githubusercontent.com/96771321/214588217-b037c3e3-bbb3-4e52-9da7-3459cbdc27b4.jpg'
